@@ -1,0 +1,6 @@
+function [Multi_p] = multiPerc(parameter)
+
+Multi_p = [parameter*2.0, parameter*1.9, parameter*1.8, parameter*1.7,... 
+    parameter*1.6, parameter*1.5, parameter*1.4, parameter*1.3, parameter*1.2, parameter*1.1,parameter,parameter*0.9, parameter*0.8, parameter*0.7,... 
+    parameter*0.6, parameter*0.5, parameter*0.4, parameter*0.3, parameter*0.2, parameter*0.1];
+
